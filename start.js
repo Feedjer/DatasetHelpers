@@ -14,8 +14,8 @@ module.exports = {
     params: {
       path: "app/linux-x64",
       message: [
-        "chmod +x DatasetProcessor.Desktop",
-        "./DatasetProcessor.Dekstop"
+        "chmod +x DatasetProcessorDesktop",
+        "./DatasetProcessorDesktop"
       ],
       on: [{ "event": "/http:\/\/[0-9.:]+/", "done": true }]
     }
