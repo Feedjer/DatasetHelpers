@@ -10,13 +10,13 @@ module.exports = {
       method: "fs.download",
       params: {
         dir: "app",
-        uri: "https://github.com/Particle1904/DatasetHelpers/releases/download/v2.4.1/win-x64.zip"
+        uri: "https://github.com/Particle1904/DatasetHelpers/releases/download/v2.9.0/win-x64.zip"
       }
     },{
       method: "fs.download",
       params: {
         dir: "app",
-        uri: "https://github.com/Particle1904/DatasetHelpers/releases/download/v2.4.1/linux-x64.zip"
+        uri: "https://github.com/Particle1904/DatasetHelpers/releases/download/v2.9.0/linux-x64.zip"
       }
     }, {
       method: "shell.run",
